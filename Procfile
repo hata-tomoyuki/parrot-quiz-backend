@@ -1,1 +1,1 @@
-web: gunicorn parrot-quiz.wsgi
+web: gunicorn config.wsgi

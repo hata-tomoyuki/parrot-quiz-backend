@@ -44,6 +44,7 @@ ALLOWED_HOSTS = ['parrot-quiz.onrender.com']
 CORS_ALLOW_ALL_ORIGINS = False
 CORS_ALLOWED_ORIGINS = [
   'http://localhost:3000',
+  'https://parrot-quiz-pwxzs2b97-hatatomoyukis-projects.vercel.app/',
 ]
 
 
